@@ -1,0 +1,21 @@
+We are writing a project report based on our findings on a RAG pipeline and have written some of our findings in the markdown file attached. 
+
+Act as an expert academic research advisor and presentation coach. I have completed a capstone project evaluating a Retrieval-Augmented Generation (RAG) system in various domains. 
+
+I have provided you with markdown files containing experimental iterations, configuration changes, metric results (RMSE for relevance, utilization, and completeness; AUROC for adherence), and AI-generated inferences and next steps. The files "Final Results Summary Financial.md" and Observations and Inference Financial.md" both correspond to the same domain and dataset, so their should effectively be combined
+
+Please generate a professional and comprehensive report that can be presented to the professors. Focus on the following:
+
+1.⁠ ⁠Introduction & Objective: Briefly state the respective domains focus and why RAG evaluation is critical here.
+2.⁠ ⁠Methodology & Configurations: How the configurations evolved across iterations.
+3.⁠ ⁠Key Findings & Results: Highlighting the trajectory of RMSE (relevance, utilization, completeness) and AUROC (adherence) scores.
+4.⁠ ⁠Inferences & Conclusions: What the data tells us about optimal configurations.
+5.⁠ Graphical representation as needed along with necessary visual aids.
+6.⁠ ⁠Include the relevant tools which compare and contrast the results across the metrics related to each domain visually and through tables.
+7. Every Observation and Inference markdown file contains various results of the iterations done. I want you to pick up the top three iterations and show us how we have reached over there from each domain. 
+
+Please update the report in a formal, academic tone, following the file final_report_sample_doc.pdf as a template and ensure the explanation of metrics (RMSE and AUROC) connects logically to the experimental narrative. Generate in such a way that the content of the script leaves the professor spellbound.
+
+There is also a presentation which contains information on our findings, which you can use to enrich the document
+
+Ask me questions if you have any.
