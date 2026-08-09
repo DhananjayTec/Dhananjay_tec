@@ -124,6 +124,10 @@ Recognized for driving enterprise architecture, engineering governance, cloud tr
 - *Solution:* Developed an automated RAG evaluation framework using Judge LLMs and benchmark datasets
 - *Technologies:* RAG, RAGBench, Judge LLMs, AUC-ROC, RMSE
 - *Impact:* Improved RAG accuracy, reduced hallucinations, and strengthened production AI quality
+- *Highlights:*
+  - Ran 17 config iterations (38 checkpoint runs) evaluating a financial RAG pipeline (FinQA + TatQA) against RAGBench's TRACe framework, using single-variable-isolation experiments to causally attribute each result
+  - Identified independent LLM-judge grading as the highest-leverage fix — nearly doubled hallucination-detection AUCROC (0.429 → 0.786), landing at the top of RAGBench's own published judge-performance range (0.51–0.80)
+  - Stress-tested robustness with the RGB benchmark (Chen et al., 2023): 93.3% (FinQA) / 86.7% (TatQA) negative-rejection accuracy — confirming the pipeline reliably declines to answer rather than hallucinate
 
 ---
 
