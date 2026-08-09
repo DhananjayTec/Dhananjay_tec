@@ -190,6 +190,13 @@ As enterprises adopt Agentic AI, technology leaders must balance data sovereignt
 - **IBR App ID:** 13201
 - A personal passion outside the tech domain — applying the same discipline, patience, and long-horizon execution used in enterprise engineering to hands-on agriculture and gardening
 
+<div align="center">
+  <img src="assets/ibr/ibr-photo.jpg" alt="Dhananjay Yadav receiving the India Book of Records IBR Achiever recognition" width="420"/>
+  <br/><br/>
+  <img src="assets/ibr/ibr-kit-open.jpg" alt="India Book of Records 2026 kit — medal, certificate, ID card" width="430"/>
+  <img src="assets/ibr/ibr-kit-table.jpg" alt="India Book of Records 2026 kit and certificate" width="430"/>
+</div>
+
 ---
 
 <div align="center">
