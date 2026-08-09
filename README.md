@@ -179,7 +179,16 @@ As enterprises adopt Agentic AI, technology leaders must balance data sovereignt
 - **Near-Zero Data Loss Streaming Architecture:** Architected high-throughput Kafka and Spark streaming environments processing over 100K events/sec while maintaining near-zero data loss and high system resilience
 - **AI-Powered Data Integrity:** Implemented intelligent anomaly detection frameworks that automatically detected data quality and lineage anomalies, significantly reducing operational errors and improving enterprise data reliability
 - **Business Rule Democratization:** Modernized over 6,500 complex business rules into business-managed natural-language configurations, accelerating policy changes and enabling faster enterprise feature delivery
-- **National Agricultural Recognition:** Earned recognition from the India Book of Records for cultivating a 34+ foot sugarcane crop, demonstrating innovation, disciplined execution, and excellence beyond the tech domain
+- **National Agricultural Recognition:** Earned recognition from the India Book of Records (IBR App ID: 13201) for cultivating a 34-foot sugarcane crop, demonstrating innovation, disciplined execution, and excellence beyond the tech domain
+
+---
+
+## 🌾 Hobbies & Personal Interests
+
+**Agriculture & Urban Farming**
+- Titled **"IBR Achiever"** by the India Book of Records (2026) for growing a **34-foot sugarcane plant** in his home garden in Hyderabad, Telangana — confirmed on June 23, 2026, certificate issued July 18, 2026
+- **IBR App ID:** 13201
+- A personal passion outside the tech domain — applying the same discipline, patience, and long-horizon execution used in enterprise engineering to hands-on agriculture and gardening
 
 ---
 
